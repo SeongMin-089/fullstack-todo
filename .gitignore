@@ -1,0 +1,14 @@
+# IDE
+.idea
+
+# frontend
+frontend/node_modules
+frontend/.env
+frontend/dist
+
+# backend
+backend/build
+backend/.gradle
+
+# logs
+*.log

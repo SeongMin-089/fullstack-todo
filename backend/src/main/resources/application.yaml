@@ -8,3 +8,9 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
+
+server:
+  port: 8081
+
+cors:
+  allowed-origins: http://localhost:5173
